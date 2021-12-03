@@ -1,8 +1,8 @@
 
 .menu {
-    display: flex;              /* Transformation en flexbox */
-    padding:0;                  /* Suppression des marges internes */
-         /* Ajout de la couleur d'arrière-plan */
+    display: flex;             
+    padding:0;                  
+         
 }
 .menu li {
     display: inline-block;
@@ -15,22 +15,22 @@ ul a {
     font-size: 30px;
     color: black;
     font-weight: bolder;
-    text-decoration:none 
+    text-decoration:none;
+    
+    
 }
 .breadcrumbs li {
     display: inline-block;
     list-style-type: none;
-  
- 
+
 }
 
 ol a{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
+    font-size: 15px;
     color: BLACK;
     font-weight: bolder;
-    text-decoration:none ;
-    padding: 0px;
+    text-decoration:none ;    
 
 }
 
